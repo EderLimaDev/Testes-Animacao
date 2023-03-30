@@ -1,0 +1,29 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+main {
+    align-items: center;
+}
+
+#imagemAnim {
+    position: relative;
+    width: 20rem;
+}
+
+button {
+    margin-top: 2%;
+    border: none;
+    width: 9rem;
+    height: 3rem;
+    background-color: green;
+    border-radius: 30px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+
